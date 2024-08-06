@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Abdelmalek MedSeghir
 - 👀 I'm interested in Web Development
-- 🌱 I'm currently learning informations systems and software engineering
 - 📫 How to reach me mohamed.abdelmalek@etu.uni-batna2.dz
