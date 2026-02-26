@@ -2,10 +2,6 @@
 
 # Hi 👋, I'm Mohamed Seghir Abdelmalek
 ### A passionate Web Developer from Algeria 🇩🇿
-
-<img src="https://komarev.com/ghpvc/?username=med1seghir5&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-
-  
 I'm a **passionate web developer** turning ideas into functional web apps.  
 I enjoy **learning new technologies**, creating **interactive interfaces**, and building **scalable back-end systems**.
 
@@ -22,11 +18,12 @@ I enjoy **learning new technologies**, creating **interactive interfaces**, and 
 
 <div align="center">
   
-🎓 **Student** (2025/2026) at University of Batna 2
-💻 **Full Stack Development** Enthusiast
-⚡ **Always eager** to learn and improve
-🔭 I’m currently open to a **new Job**
-📫 Reach me: [mohamed.abdelmalek@etu.univ-batna2.dz](mailto:mohamed.abdelmalek@etu.univ-batna2.dz)
+- 🎓 **Student** (2025/2026) at University of Batna 2
+- 💻 **Full Stack Development** Enthusiast
+- ⚡ **Always eager** to learn and improve
+- 🔭 I’m currently open to a **new Job**
+- 💬 Ask me about **React, Node.js and NestJS**
+- 📫 Reach me: [mohamed.abdelmalek@etu.univ-batna2.dz](mailto:mohamed.abdelmalek@etu.univ-batna2.dz)
 
 </div>
 
@@ -34,9 +31,9 @@ I enjoy **learning new technologies**, creating **interactive interfaces**, and 
 
 ### 📌 Projects
 
-💻 **Web Apps**: CRUD apps, authentication, APIs
-🎨 **Interactive UI**: Figma designs to responsive web pages
-📚 **Academic & Personal Projects**
+- 💻 **Web Apps**: CRUD apps, authentication, APIs
+- 🎨 **Interactive UI**: Figma designs to responsive web pages
+- 📚 **Academic & Personal Projects**
 
 ---
 
