@@ -22,12 +22,11 @@ I enjoy **learning new technologies**, creating **interactive interfaces**, and 
 
 <div align="center">
   
-- 🎓 **Student** (2025/2026) at University of Batna 2
-- 💻 **Full Stack Development** Enthusiast
-- ⚡ **Always eager** to learn and improve
-- 🔭 I’m currently open to a **new Job**
-- 💬 Ask me about **React, Node.js and NestJS**
-- 📫 Reach me: [mohamed.abdelmalek@etu.univ-batna2.dz](mailto:mohamed.abdelmalek@etu.univ-batna2.dz)
+🎓 **Student** (2025/2026) at University of Batna 2
+💻 **Full Stack Development** Enthusiast
+⚡ **Always eager** to learn and improve
+🔭 I’m currently open to a **new Job**
+📫 Reach me: [mohamed.abdelmalek@etu.univ-batna2.dz](mailto:mohamed.abdelmalek@etu.univ-batna2.dz)
 
 </div>
 
@@ -35,9 +34,9 @@ I enjoy **learning new technologies**, creating **interactive interfaces**, and 
 
 ### 📌 Projects
 
-- 💻 **Web Apps**: CRUD apps, authentication, APIs
-- 🎨 **Interactive UI**: Figma designs to responsive web pages
-- 📚 **Academic & Personal Projects**
+💻 **Web Apps**: CRUD apps, authentication, APIs
+🎨 **Interactive UI**: Figma designs to responsive web pages
+📚 **Academic & Personal Projects**
 
 ---
 
@@ -53,7 +52,4 @@ I enjoy **learning new technologies**, creating **interactive interfaces**, and 
 </p>
 
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=med1seghir5&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
 </div>
